@@ -15,11 +15,11 @@ Welcome to Hangman: The Game! This is a simple console-based Hangman game implem
 ```bash
 git clone https://github.com/your_username/hangman-game.git
 ```
-Compile the hangman.cpp file using your C++ compiler:
+2. Compile the hangman.cpp file using your C++ compiler:
 ```bash
 g++ hangman.cpp -o hangman
 ```
-Run the compiled executable:
+3. Run the compiled executable:
 ```bash
 ./hangman
 ```
