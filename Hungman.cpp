@@ -1,5 +1,3 @@
-//Hangman game by Ankit Goel
-
 #include<iostream>
 #include<string>
 #include<fstream>
